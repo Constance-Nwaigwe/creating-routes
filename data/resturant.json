@@ -1,0 +1,7 @@
+{
+    "resdata": [
+        {"name": "Papa Johns", "location": "Rockville"},
+        {"name": "Wendy's", "location": "Germantown"},
+        {"name": "Popeyes", "location": "Apsen Hill"}
+    ]
+}

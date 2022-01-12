@@ -1,0 +1,7 @@
+{
+    "menuitemsdata": [
+        {"recipe": "Cheese", "cost": 1.99},
+        {"recipe": "Potatoes", "cost": 0.99},
+        {"recipe": "Chicken", "cost": 5.49}
+    ]
+}
